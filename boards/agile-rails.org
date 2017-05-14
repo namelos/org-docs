@@ -1,0 +1,15 @@
+* DONE agile rails training
+  CLOSED: [2017-05-14 日 16:46]
+** DONE setup env [5/5]
+   CLOSED: [2017-05-14 日 16:46]
+   - [X] install ruby env
+   - [X] install rails
+   - [X] install postgres
+   - [X] setup postgres user
+   - [X] setup spacemacs rails env
+** DONE init project [3/3]
+   CLOSED: [2017-05-14 日 16:46]
+   - [X] init rails + react / webpack + postgres
+   - [X] setup vcs
+   - [X] setup repository
+

@@ -1,0 +1,12 @@
+* emacs
+** general
+   | function     | shortcut                         |
+   | sudo editing | C-x C-f /sudo::/path/to/file RET |
+** pdf
+   | go back to the last item in history | ``    |
+   | night mode                          | M-m n |
+** ruby & rails
+   | start server    | M-m m x s   |
+   | rails generator | M-m m r c c |
+
+

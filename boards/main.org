@@ -1,0 +1,8 @@
+* main-app-board
+** posts index
+   - get
+   - static page rendering
+   - title content timestamps
+** editing
+   - create update destroy functionalities
+   - spa

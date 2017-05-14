@@ -1,0 +1,16 @@
+* main agenda
+** DONE start rails agile training
+   CLOSED: [2017-05-14 日 16:31] DEADLINE: <2017-05-14 日> SCHEDULED: <2017-05-13 六>
+** TODO start a new aws ec2 instance for ops
+   SCHEDULED: <2017-05-14 日>
+** DONE finish rails agile book
+   CLOSED: [2017-05-14 日 16:32]
+* middle term
+** keep reading programming in scala book
+** keep reading functional reactive domain modeling
+* backlog
+** learn akka / akka http / akka persistence
+** deploy play and spring apps to ec2
+** learn docker
+** learn spring boot
+** machine learning

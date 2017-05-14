@@ -1,0 +1,11 @@
+* installations
+** oh my zsh
+   #+BEGIN_SRC sh
+   sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   #+END_SRC
+** leiningen
+   #+BEGIN_SRC sh
+   wget https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein
+   chmod +x lein
+   sudo mv lein /usr/local/bin
+   #+END_SRC
